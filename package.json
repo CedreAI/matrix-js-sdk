@@ -1,5 +1,5 @@
 {
-  "name": "matrix-js-sdk",
+  "name": "fanoos-js-sdk",
   "version": "15.6.0",
   "description": "Matrix Client-Server SDK for Javascript",
   "scripts": {
