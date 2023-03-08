@@ -36,6 +36,17 @@ export const UNSTABLE_FILTER_RELATED_BY_REL_TYPES = new UnstableValue(
     "io.element.relation_types",
 );
 
+
+export const UNSTABLE_FILTER_RELATION_SENDERS = new UnstableValue(
+    "relation_senders",
+    "io.element.relation_senders",
+);
+
+export const UNSTABLE_FILTER_RELATION_TYPES = new UnstableValue(
+    "relation_types",
+    "io.element.relation_types",
+);
+
 /**
  * @param {Object} obj
  * @param {string} keyNesting
